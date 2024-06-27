@@ -19,12 +19,11 @@ public class EmployeDemo {
                 "name='" + name + '\'' +
                 ", empnewId=" + empnewId +
                 ", number=" + number +
+
                 '}';
     }
 
 }
-
-
 
 
 //    @Override
