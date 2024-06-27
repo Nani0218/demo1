@@ -12,6 +12,10 @@ public class EmployeDemo {
 
     }
 
+    public EmployeDemo() {
+
+    }
+
 
     @Override
     public String toString() {
